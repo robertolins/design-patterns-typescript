@@ -1,11 +1,10 @@
 {
   "compilerOptions": {
-    "target": "ES2019",
+    "target": "ES2020",
     "module": "CommonJS",
-    "lib": ["ESNext","DOM"],
+    "lib": ["ESNext", "DOM"],
     "outDir": "./dist",
-    "rootDir": "./src",
-    "skipLibCheck": true
+    "rootDir": "./src"
   },
   "include": ["./src"]
 }
